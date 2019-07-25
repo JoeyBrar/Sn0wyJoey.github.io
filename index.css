@@ -1,0 +1,15 @@
+p, li {
+    font-size: 100px ;
+    color: rgb(101, 4, 4);
+}
+
+li {
+    font-size: 50px ;
+}
+body {
+    background: rgb(0, 0, 0);
+}
+
+ol {
+    margin: 25px;
+}
